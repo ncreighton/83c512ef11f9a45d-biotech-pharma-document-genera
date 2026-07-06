@@ -1,0 +1,2 @@
+# 83c512ef11f9a45d-biotech-pharma-document-genera
+Built for biotech pharma professionals who are tired of building the same data integration from scratch for every project.  Rate limiting, authentication, and error handling built in from the start. RESTful JSON API with comprehensive documentation and code examples.  ## What's Included  - Biotech Pharma Document Generation — fully configured and r
